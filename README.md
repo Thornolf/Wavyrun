@@ -11,7 +11,7 @@ Then export the library path : `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/loc
 
 The binary is in the release directory, to execute it `./Wavyrun`
 
-![alt text](https://imgur.com/a/ONOZ9ER)
+<img src="https://imgur.com/a/ONOZ9ER"> 
 
 ## Contact
 
