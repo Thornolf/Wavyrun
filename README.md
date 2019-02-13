@@ -1,4 +1,4 @@
-# Wavyrun
+# Wavy'Run
 
 A funny Runner / Platformer / Rythmer game created in C++ and with the help of the SFML library.
 It was made for the Game Jam in 2016.
@@ -11,8 +11,8 @@ Then export the library path : `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/loc
 
 The binary is in the release directory, to execute it `./Wavyrun`
 
-<img src="https://imgur.com/a/ONOZ9ER"> 
 
+![Alt text](/release/asset/demonstration.png?raw=true "Screenshot of Wavy'Run")
 ## Contact
 
 If you have any question or problem, please contact me at quentin.baudet@epitech.eu
