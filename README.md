@@ -6,8 +6,10 @@ It was made for the Game Jam in 2016.
 ## How to use
 
 After installing SFML [here](https://www.sfml-dev.org/tutorials/2.5/start-linux.php) you will have to execute compil.sh in the source directory. `./compil.sh`
-Then export the library path `Don't forget to : export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/SFML/lib`
-The binary is in the release directory. To execute it `./Wavyrun`
+
+Then export the library path : `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/SFML/lib`
+
+The binary is in the release directory, to execute it `./Wavyrun`
 
 
 ## Contact
