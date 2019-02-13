@@ -11,6 +11,7 @@ Then export the library path : `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/loc
 
 The binary is in the release directory, to execute it `./Wavyrun`
 
+## Screenshot of the game
 
 ![Alt text](/release/asset/demonstration.png?raw=true "Screenshot of Wavy'Run")
 ## Contact
